@@ -1,0 +1,2 @@
+<h1>API Academia com Python e FastAPI</h1>
+<p>Esta é uma API de atletas de academia. É uma API pequena, devido a ser um projeto mais hands-on e simplificado nós desenvolveremos uma API de poucas tabelas, mas com o necessário para você aprender como utilizar o FastAPI.</p>
